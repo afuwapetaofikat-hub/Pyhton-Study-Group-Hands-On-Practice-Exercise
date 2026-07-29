@@ -6,13 +6,13 @@ This repository contains my hands-on exercises from Lessons 1–5 of my Python l
 
 ## Lessons Covered
 
-### Introduction to Python & Jupyter Notebook
-### Variables, Data Types, Functions & User Input
-### Arithmetic & Comparison Operators
-### Logical Operators in Python
-### Assignment Operators in Python
-### Introduction to Strings & Working with Text Data
-### String Formatting in Python
+* ##### Introduction to Python & Jupyter Notebook
+* ##### Variables, Data Types, Functions & User Input
+* ##### Arithmetic & Comparison Operators
+* ##### Logical Operators in Python
+* ##### Assignment Operators in Python
+* ##### Introduction to Strings & Working with Text Data
+* ##### String Formatting in Python
 
 ## Tools Used
 
